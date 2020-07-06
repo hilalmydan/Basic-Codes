@@ -1,4 +1,5 @@
-/* Problem : Random degerlerle olusturulacak 10�10�luk matrisi yazd�ran 
+/* Problem : Random degerlerle olusturulacak nxn'lik matrisi kullanıcıyı 5 sn bekleterek yazdıran, 
+eğer n istenilen boyuta uymuyorsa n'i kullanıcıdan belirtilen standartlar sağlanana kadar tekrar tekrar daha isteyen 
 program  */ 
 
 #include<stdio.h>
